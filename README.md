@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, issue in Perl programming: unexpected behavior arising from indirect variable references. The `bug.pl` file contains code exhibiting this issue, while `bugSolution.pl` provides a solution and explanation.  The core problem lies in understanding how Perl's reference mechanism impacts variable modification.
